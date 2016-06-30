@@ -19,16 +19,13 @@ Moreover, the following options are available:
 Paste Configuration
 *******************
 
-TL;DR.
-------
-
 Add the corresponding Paste configuration according to your OpenStack version
 from :ref:`pipeline-examples` into your Paste configuration file
 (usually ``/etc/nova/api-paste.ini``).
 
 Detailed instructions
-
 ---------------------
+
 Once installed it is needed to add it to your OpenStack installation. Edit your
 ``/etc/nova/api-paste.ini``.
 
